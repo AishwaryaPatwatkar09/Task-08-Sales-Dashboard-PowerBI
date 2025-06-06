@@ -1,0 +1,8 @@
+1. The West region generated the highest total profit among all regions.
+
+2. Technology category leads in total sales, followed by Office Supplies.
+
+3. Sales peaked during the end of the year, especially in November–December.
+
+4. The Central region shows moderate sales but comparatively lower profit margins.
+
